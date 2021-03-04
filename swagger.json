@@ -1,0 +1,23 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "version": "1.0.0",
+        "title": "Node express",
+        "description": "My User Project Application API",
+        "license": {
+            "name": "MIT",
+            "url": "https://opensource.org/licenses/MIT"
+        }
+    },
+    "basePath": "/",
+    "tags": [
+        {
+            "name": "Users",
+            "description": "API for users in the system"
+        }
+    ],
+    "schemes": [
+        "https"
+    ]
+
+}
